@@ -33,6 +33,7 @@ class MyApp extends StatelessWidget {
 
       //Pour Changer le bg color AppBar (Mais il faut supprimer brightness pour activer le bg-color)
       darkTheme: ThemeData(
+        //
         brightness: Brightness.dark,
         //primarySwatch: Colors.deepPurple,
       ),
